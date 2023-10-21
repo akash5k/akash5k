@@ -20,4 +20,7 @@
 <a href="https://github.com/akash5k"><img align="center" alt="Akash's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=akash5k&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="192px"/></a>
 <a href="https://github.com/akash5k"><img align="center" height="192px" alt="Akash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash5k&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=akash5k&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
 </p>
