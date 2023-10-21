@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Parida</h1>
-🏫I'm a Final year IT student at IIIT Bhubaneswar, Odisha.<br>🌱 I’m currently learning  UI design and frontend tech.<br>🔭 Currently crafting captivating frontend experiences.<br>⚡ Fun fact : Transforming complexity into beautiful interfaces is always fun.<br>
+🏫I'm a Final year IT student at IIIT Bhubaneswar, Odisha.<br>
+<!-- 🌱 I’m currently learning  UI design and frontend tech.<br>
+🔭 Currently crafting captivating frontend experiences.<br> -->
+⚡ Fun fact : Transforming complexity into beautiful interfaces is always fun.<br>
 
 
 ## 🌐 Socials:
