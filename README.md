@@ -21,6 +21,6 @@
 <a href="https://github.com/akash5k"><img align="center" height="192px" alt="Akash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash5k&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=akash5k&label=Profile%20Views&color=0&icon=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=akash5k&label=Profile%20Views&color=1&icon=5&pretty=false" />
 </a>
 </p>
