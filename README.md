@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Parida</h1>
-## 💫 About Me:
+💫 About Me:
 🏫 I'm a Final year IT student at IIIT Bhubaneswar, Odisha.<br>🔭 I’m currently working on MERN Stack Development.<br>🌱 I’m currently learning TypeScript.<br>⚡ Fun fact :// Transforming complexity into beautiful interfaces is always fun.
 
 
