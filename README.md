@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://akash5k.vercel.app" target="_blank"  rel="noreferrer">Akash Parida</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://akash5k.vercel.app" target="_blank"  rel="noreferrer">Akash Parida 🔗</a></h1>
 💫 About Me:
 🏫 I'm a Final year IT student at IIIT Bhubaneswar, Odisha.<br>
 🔭 I’m currently working on MERN Stack Development.<br>
