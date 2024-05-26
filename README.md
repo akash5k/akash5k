@@ -7,13 +7,14 @@
 <!-- 👀 Find my porfolio <a href="https://akash5k.vercel.app/" target="_blank"  rel="noreferrer">here</a>. -->
 <br/>
 <div align="center">
-  <a href="https://linkedin.com/in/akash-parida-ap">
+  <a href="https://linkedin.com/in/akash-parida-ap" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://akash5k.vercel.app/">
+  <a href="https://akash5k.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
   </a>
 </div>
+
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
